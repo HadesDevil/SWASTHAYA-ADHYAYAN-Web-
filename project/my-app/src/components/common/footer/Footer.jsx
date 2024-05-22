@@ -74,15 +74,15 @@ const Footer = () => {
             <ul>
               <li>
                 <i className='fa fa-map'></i>
-                Knowledge Village, Rajendra Nagar, Indore
+                 Indore
               </li>
               <li>
                 <i className='fa fa-phone-alt'></i>
-                7697505024
+                1234567890
               </li>
               <li>
                 <i className='fa fa-paper-plane'></i>
-                0808CI211070.IES@GMAIL.COM
+                xyz@GMAIL.COM
               </li>
             </ul>
           </div>
